@@ -1,0 +1,5 @@
+# Files
+
+# Configurations
+django/venv
+django/.env.local
